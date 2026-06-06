@@ -706,5 +706,13 @@
     {
         "name": "spinyshell",
         "url": "https://raw.githubusercontent.com/haa-gg/DonutPlains/main/emojis/born_in_chaos/spinyshell.png"
+    },
+    {
+        "name": "seed_of_chaos",
+        "url": "https://raw.githubusercontent.com/haa-gg/DonutPlains/main/emojis/born_in_chaos/chaossemt.png"
+    },
+    {
+        "name": "bone_handle",
+        "url": "https://raw.githubusercontent.com/haa-gg/DonutPlains/main/emojis/born_in_chaos/bonruk.png"
     }
 ]
