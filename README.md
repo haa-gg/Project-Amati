@@ -28,7 +28,7 @@ When you open the `.exe`, Windows will show a blue "Windows protected your PC" p
 Once installed, the launcher will open automatically.
 1. Sign in with your Microsoft/Minecraft account.
 2. Enter your **Beta Key** (You get this by hitting the blue link beneath the key box and signing some forms).
-3. The launcher will automatically inject the `AutoModpack` loader and set up your client.
+3. The launcher will load datapacks and set up your client.
 4. Click **Play**! The game will launch and automatically connect to the server, downloading all remaining mods (like *Ice & Fire* and *Born in Chaos*) on the fly.
 
 ---
