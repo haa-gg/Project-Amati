@@ -11,7 +11,7 @@ Please follow the instructions below to bypass the warnings and install the laun
 ## Installation Guide
 
 ### Step 1: Download the Installer
-Download the latest `Project Amati Launcher Setup.exe` from the **[Releases page](../../releases/latest)**.
+**[⬇️ Download Here](https://github.com/haa-gg/project-amati/releases/download/v0.0.45/Project%20Amati%20Launcher%20Setup%200.0.45.exe)** (Direct `.exe` download)
 
 ### Step 2: Bypass Browser Warnings
 When downloading in Chrome or Edge, the browser may block the file:
