@@ -11,9 +11,9 @@ Please follow the instructions below to bypass the warnings and install the laun
 ## Installation Guide
 
 ### Step 1: Download the Installer
-- **[⬇️ Download for Windows (.exe)](https://github.com/haa-gg/Project-Amati/releases/download/v0.0.75/Project-Amati-Launcher-Setup-0.0.75.exe)**
-- **[⬇️ Download for Mac Apple Silicon (.dmg)](https://github.com/haa-gg/Project-Amati/releases/download/v0.0.75/Project-Amati-Launcher-0.0.75-arm64.dmg)**
-- **[⬇️ Download for Mac Intel (.dmg)](https://github.com/haa-gg/Project-Amati/releases/download/v0.0.75/Project-Amati-Launcher-0.0.75-x64.dmg)**
+- **[⬇️ Download for Windows (.exe)](https://github.com/haa-gg/Project-Amati/releases/download/v0.0.76/Project-Amati-Launcher-Setup-0.0.76.exe)**
+- **[⬇️ Download for Mac Apple Silicon (.dmg)](https://github.com/haa-gg/Project-Amati/releases/download/v0.0.76/Project-Amati-Launcher-0.0.76-arm64.dmg)**
+- **[⬇️ Download for Mac Intel (.dmg)](https://github.com/haa-gg/Project-Amati/releases/download/v0.0.76/Project-Amati-Launcher-0.0.76-x64.dmg)**
 
 ### Step 2: Bypass Browser Warnings
 When downloading in Chrome or Edge, the browser may block the file:
